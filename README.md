@@ -13,8 +13,9 @@ The idea here is to use the same test case for any level (apprentice/junior/mid/
 1. Create a fork of this project
 2. Do your thing
 3. Use the README.md file to explain what you did
+4. Send us an email to hello@luvotels.com when you have finished!
 
-That last part is **really important**, there are plenty of ways of solving this challenge and we want to understand why you chose to do it like that.
+Number 3 is **really important**, there are plenty of ways of solving this challenge and we want to understand why you chose to do it like that.
 Imagine you have to explain to:
 * our real hotel clients why your solution is good
 * our tech team why your code is organized like that
@@ -25,7 +26,13 @@ The README should also contain any specific information on how to run the projec
 
 And, last but not least, some todo/critics/comments/leads on your code is highly welcome. We do not believe in a quest to write perfect code but believe we need to always improve. So that's okay if your code is not perfect as long as you are aware of the flaws and can explain them :wink:
 
-There is no time limit although we generally leave 1 week to complete the test (because that's what happens in real life) and you should have a working solution in about 12/16 coding hours.
+There is no time limit although we generally leave 1 week to complete the test (because that's what happens in real life) and you should have a working solution in about 12/16 hours.
+
+### Help?!
+
+If you have any question you can:
+* Browse the issues https://github.com/luvotels/fs-hiring-test/issues and/or create one
+* Send an email to hello@luvotels.com
 
 ## The challenge
 
@@ -66,7 +73,7 @@ Will return the list of rooms for the specified motel, for every room you'll get
 
 Will return the list of bookings for the specified motel, for every booking you'll get:
 
-```json
+```javascript
 {
   "id": 42,
   "motel_id": 42,
