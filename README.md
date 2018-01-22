@@ -41,6 +41,7 @@ You will build a bookings report page for the motels owners.
 The real case scenario : each motel owner has a private access to a special area to administrate their data. They need to be able to quickly access the bookings that were made through the platform and their revenue share.
 
 You **don't** have to build any admin area but you should be able to login different users (ie, motel owners) and show only their own reports.
+Additional information about users and motels can be found in issue #1
 
 ### The data
 
